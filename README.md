@@ -9,4 +9,4 @@ Lead AI / Staff ML engineer in Bengaluru. I build production LLM systems: retrie
 
 **Stack:** Python · PyTorch · FastAPI · Elasticsearch · Vector search · AWS · Docker · MLflow
 
-🌐 [thebiotechguy.github.io](https://thebiotechguy.github.io) · 💼 [LinkedIn](https://linkedin.com/in/deepaksharma211/) · ✉️ deepakshar211@gmail.com
+🌐 [deepaksharma-ai.github.io](https://deepaksharma-ai.github.io) · 💼 [LinkedIn](https://linkedin.com/in/deepaksharma211/) · ✉️ deepakshar211@gmail.com
