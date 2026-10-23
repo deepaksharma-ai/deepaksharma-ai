@@ -4,9 +4,9 @@ Lead AI / Staff ML engineer in Bengaluru. I build production LLM systems: retrie
 
 - 🛠️ Now: agentic document extraction with human-in-the-loop review at **Zenskar**
 - 📈 Before: founding ML engineer at **OrbitShift**, 0 → $10M ARR, owned AI architecture end to end
-- 🔎 Focus: hybrid RAG, tool-calling agents with memory, LLM evals and cost governance
+- 🔎 Focus: multi-agent architectures, human-in-the-loop review, long-running agents, LoRA fine-tuning, hybrid RAG, LLM evals and cost governance
 - 🧬 Roots: bioinformatics and clinical data science · B.Tech, IIT Roorkee
 
-**Stack:** Python · PyTorch · FastAPI · Elasticsearch · Vector search · AWS · Docker · MLflow
+**Stack:** Python · PyTorch · LoRA / PEFT · FastAPI · MCP · Elasticsearch · Vector search · AWS · Docker · MLflow
 
 🌐 [deepak-sharma.dev](https://deepak-sharma.dev) · 💼 [LinkedIn](https://linkedin.com/in/deepaksharma211/) · ✉️ deepakshar211@gmail.com
